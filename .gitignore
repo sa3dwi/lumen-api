@@ -1,0 +1,7 @@
+/vendor*
+.env
+.DS_Store
+*.swp
+.php*
+!.php_cs.dist
+.idea
